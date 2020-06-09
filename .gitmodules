@@ -1,0 +1,3 @@
+[submodule "minivcs"]
+	path = minivcs
+	url = https://github.com/sodmitriev/minivcs
